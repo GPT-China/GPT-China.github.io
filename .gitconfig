@@ -1,9 +1,0 @@
-[user]
-email = EinNiemand7@protonmail.com
-name = GPT-China
-
-[github]
-user = "GPT-China"
-
-[core]
-sshCommand = "ssh -i ~/.ssh/gh_gpt"
