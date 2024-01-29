@@ -1,17 +1,118 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-01-25T14:09:18+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">GPT知识大陆</title><subtitle></subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/2024/01/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2024-01-25T14:03:46+08:00</published><updated>2024-01-25T14:03:46+08:00</updated><id>http://localhost:4000/2024/01/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/2024/01/welcome-to-jekyll/"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <generator uri="http://jekyllrb.com" version="4.3.3">Jekyll</generator>
+  
+  
+  <link href="/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/" rel="alternate" type="text/html" />
+  <updated>2024-01-29T23:01:20+08:00</updated>
+  <id>//</id>
 
-<p>Jekyll requires blog post files to be named according to the following format:</p>
+  
+    <title type="html">GPT知识大陆</title>
+  
 
-<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
+  
+    <subtitle></subtitle>
+  
 
-<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+  
 
-<p>Jekyll also offers powerful support for code snippets:</p>
+  
+  
+    <entry>
+      
+      <title type="html">ChatGPT账号注册教程，无需国外手机（2024年2月可用）</title>
+      
+      
+      <link href="/2024/01/register-chatgpt/" rel="alternate" type="text/html" title="ChatGPT账号注册教程，无需国外手机（2024年2月可用）" />
+      
+      <published>2024-01-29T22:39:00+08:00</published>
+      <updated>2024-01-29T22:39:00+08:00</updated>
+      <id>/2024/01/register-chatgpt</id>
+      <content type="html" xml:base="/2024/01/register-chatgpt/">&lt;h1 id=&quot;前言&quot;&gt;前言&lt;/h1&gt;
+&lt;p&gt;前段时间同学找我说想用ChatGPT写点东西，我才意识到现在还有很多朋友不知道如何用ChatGPT，就简单记录一下，也方便大家查阅，我预期是之后介绍更多AI相关和ChatGPT相关的知识，帮助大家追上人工智能的潮流，提高自己的工作效率（用了ChatGPT之后效率直接起飞我只能说）！&lt;/p&gt;
 
-<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
-  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
-<span class="k">end</span>
-<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
-<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+&lt;h1 id=&quot;chatgpt-是什么&quot;&gt;ChatGPT 是什么&lt;/h1&gt;
+&lt;p&gt;ChatGPT 是由 OpenAI 开发的一种大型语言模型，可以用于回答各种问题、生成文本、进行对话等自然语言处理任务。到目前为止，已经开发到GPT4的版本，由于添加了插件支持，不仅可以进行文本相关的工作，你甚至发给他图片、音频等等，或是让他上网搜索资料整理之后再回复你。&lt;/p&gt;
 
-<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry></feed>
+&lt;p&gt;&lt;img src=&quot;https://s2.loli.net/2024/01/29/NMlTWB2PELoKyx8.png&quot; alt=&quot;用GPT4解释代码&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;chatgpt-官网&quot;&gt;ChatGPT 官网&lt;/h2&gt;
+&lt;p&gt;ChatGPT的官方网址是 &lt;a href=&quot;https://chat.openai.com&quot;&gt;https://chat.openai.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;请认准其官方域名 openai.com，不是这个域名的ChatGPT服务都是镜像站或者假冒伪劣网站，请注意辨别。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://s2.loli.net/2024/01/29/1kmtsiqE5JWGwUS.png&quot; alt=&quot;ChatGPT官网&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;chatgpt-使用流程&quot;&gt;ChatGPT 使用流程&lt;/h1&gt;
+
+&lt;p&gt;如果你不会魔法，或者觉得魔法麻烦，那就直接用国内一些镜像站就好了，很多，比较容易找到。如果你希望直接使用官方的ChatGPT服务甚至更多更高效的服务，可以接着往下看。&lt;/p&gt;
+
+&lt;p&gt;之前注册 ChatGPT 除了有一个海外邮箱，还需要手机号接码，一般都是推荐一些虚拟手机号接码平台，比如 &lt;a href=&quot;https://sms-activate.org/?ref=4671934&quot;&gt;sms-activate.org&lt;/a&gt;，但现在统统不用！&lt;/p&gt;
+
+&lt;p&gt;你只要会魔法，就可以注册，甚至直接使用GPT4！&lt;/p&gt;
+
+&lt;h2 id=&quot;注册邮箱&quot;&gt;注册邮箱&lt;/h2&gt;
+
+&lt;p&gt;尽管现在不需要手机号也可以注册，但是海外邮箱还是需要的，推荐proton邮箱（gmail也可以，不过会繁琐一些），不推荐微软系的邮箱（比如outlook、hotmail）。&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;访问&lt;a href=&quot;https://proton.me/&quot;&gt;proton官网&lt;/a&gt;，选择右上角的 「Create a free account」，选择免费套餐就行 「Get Proton for Free」
+&lt;img src=&quot;https://s2.loli.net/2024/01/29/GmFLfpJKeQI6ro8.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;https://s2.loli.net/2024/01/29/H5v46ocJdMsgzTA.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;设置用户名和密码（如果想换中文也可以按照图所示换语言）
+&lt;img src=&quot;https://s2.loli.net/2024/01/29/t6foZH9w43JiLCT.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;选择免费套餐就行（要想付费也行
+&lt;img src=&quot;https://s2.loli.net/2024/01/29/ixfQVeZMIy63JUr.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;通过真人验证
+&lt;img src=&quot;https://s2.loli.net/2024/01/29/LEVizRswPrutckK.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;输入想要显示的用户名
+&lt;img src=&quot;https://s2.loli.net/2024/01/29/ZmSyBsdOvXN5GPo.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;跳过手机验证（选择「Maybe later」），一定要记住用户名和密码，没有手机号，不好找回邮箱。
+&lt;img src=&quot;https://s2.loli.net/2024/01/29/XmCj7DvLrHIelqV.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;登陆邮箱即可（正常情况下就直接进入邮箱了&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;注册openai账号&quot;&gt;注册OpenAI账号&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;打开&lt;a href=&quot;https://chat.openai.com/&quot;&gt;OpenAI主页&lt;/a&gt;，点击「Sign up」
+&lt;img src=&quot;https://s2.loli.net/2024/01/29/1kmtsiqE5JWGwUS.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;输入邮箱，点击继续「Continue」，再输入密码，点击继续「Continue」，会提示要去邮箱验证
+&lt;img src=&quot;https://s2.loli.net/2024/01/29/hu8o5VpO21gjNeE.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;https://s2.loli.net/2024/01/29/XVqG7KvauzAb42g.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;https://s2.loli.net/2024/01/29/efjtX8T9S5P2pFk.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;去Pronton邮箱中进行验证（点击「Verify email address」）
+&lt;img src=&quot;https://s2.loli.net/2024/01/29/P2CJE3IzGo4yMiU.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;补充信息（姓名和出生日期，是否填真实的就看你自己了）
+&lt;img src=&quot;https://s2.loli.net/2024/01/29/k7tH321pNhzeFrg.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;（可选）你如果想要使用中文界面ChatGPT，可以点击加入alpha测试（不建议加入测试，我不知道会不会有什么负面影响）
+&lt;img src=&quot;https://s2.loli.net/2024/01/29/hyR8wBdCQ3pOIEf.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;最后&quot;&gt;最后&lt;/h1&gt;
+&lt;p&gt;从我2023年3月份左右开始使用ChatGPT，到最近三个月用GPT-4，对我平时工作学习效率提升非常高，不管是搜资料、日常问答，还是写作业、报告或者小论文，非常高效。我希望我这篇文章能帮助到真正需要的人，希望这篇文章能帮助没有接触过AI的人尝试AI带给我们的便利。&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+
+      
+
+      
+
+      
+        <summary type="html">前言 前段时间同学找我说想用ChatGPT写点东西，我才意识到现在还有很多朋友不知道如何用ChatGPT，就简单记录一下，也方便大家查阅，我预期是之后介绍更多AI相关和ChatGPT相关的知识，帮助大家追上人工智能的潮流，提高自己的工作效率（用了ChatGPT之后效率直接起飞我只能说）！</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+</feed>
