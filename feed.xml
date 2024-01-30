@@ -3,10 +3,10 @@
   <generator uri="http://jekyllrb.com" version="4.3.3">Jekyll</generator>
   
   
-  <link href="/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="/" rel="alternate" type="text/html" />
-  <updated>2024-01-30T20:39:31+08:00</updated>
-  <id>//</id>
+  <link href="https://gpt-china.github.io/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://gpt-china.github.io/" rel="alternate" type="text/html" />
+  <updated>2024-01-30T20:46:05+08:00</updated>
+  <id>https://gpt-china.github.io//</id>
 
   
     <title type="html">GPT知识大陆</title>
@@ -25,12 +25,12 @@
       <title type="html">使用虚拟信用卡升级GPT-4（2024年2月可用）</title>
       
       
-      <link href="/2024/01/upgrade-gpt4/" rel="alternate" type="text/html" title="使用虚拟信用卡升级GPT-4（2024年2月可用）" />
+      <link href="https://gpt-china.github.io/2024/01/upgrade-gpt4/" rel="alternate" type="text/html" title="使用虚拟信用卡升级GPT-4（2024年2月可用）" />
       
       <published>2024-01-29T23:24:00+08:00</published>
       <updated>2024-01-29T23:24:00+08:00</updated>
-      <id>/2024/01/upgrade-gpt4</id>
-      <content type="html" xml:base="/2024/01/upgrade-gpt4/">&lt;h1 id=&quot;gpt-4闲聊&quot;&gt;GPT-4闲聊&lt;/h1&gt;
+      <id>https://gpt-china.github.io/2024/01/upgrade-gpt4</id>
+      <content type="html" xml:base="https://gpt-china.github.io/2024/01/upgrade-gpt4/">&lt;h1 id=&quot;gpt-4闲聊&quot;&gt;GPT-4闲聊&lt;/h1&gt;
 &lt;p&gt;（了解的读者可以直接跳过了&lt;/p&gt;
 
 &lt;p&gt;GPT4是订阅制，20美元/月，新手朋友的话，可以先收藏文章/博客，先用一段时间ChatGPT也就是GPT3.5，如果觉得有想法可以再订阅一个月试试。我的感受是GPT4会比GPT3.5准确很多（甚至之前CPT3.5会不知道周树人和鲁迅的关系），也更高效一点，用了GPT4之后就没用过GPT3.5了（笑&lt;/p&gt;
@@ -83,12 +83,12 @@
       <title type="html">ChatGPT账号注册教程，无需国外手机（2024年2月可用）</title>
       
       
-      <link href="/2024/01/register-chatgpt/" rel="alternate" type="text/html" title="ChatGPT账号注册教程，无需国外手机（2024年2月可用）" />
+      <link href="https://gpt-china.github.io/2024/01/register-chatgpt/" rel="alternate" type="text/html" title="ChatGPT账号注册教程，无需国外手机（2024年2月可用）" />
       
       <published>2024-01-29T22:39:00+08:00</published>
       <updated>2024-01-29T22:39:00+08:00</updated>
-      <id>/2024/01/register-chatgpt</id>
-      <content type="html" xml:base="/2024/01/register-chatgpt/">&lt;h1 id=&quot;前言&quot;&gt;前言&lt;/h1&gt;
+      <id>https://gpt-china.github.io/2024/01/register-chatgpt</id>
+      <content type="html" xml:base="https://gpt-china.github.io/2024/01/register-chatgpt/">&lt;h1 id=&quot;前言&quot;&gt;前言&lt;/h1&gt;
 &lt;p&gt;前段时间同学找我说想用ChatGPT写点东西，我才意识到现在还有很多朋友不知道如何用ChatGPT，就简单记录一下，也方便大家查阅，我预期是之后介绍更多AI相关和ChatGPT相关的知识，帮助大家追上人工智能的潮流，提高自己的工作效率（用了ChatGPT之后效率直接起飞我只能说）！&lt;/p&gt;
 
 &lt;h1 id=&quot;chatgpt-是什么&quot;&gt;ChatGPT 是什么&lt;/h1&gt;
