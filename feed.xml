@@ -5,7 +5,7 @@
   
   <link href="https://gpt-china.github.io/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://gpt-china.github.io/" rel="alternate" type="text/html" />
-  <updated>2024-02-02T20:30:51+08:00</updated>
+  <updated>2024-02-23T11:59:29+08:00</updated>
   <id>https://gpt-china.github.io//</id>
 
   
@@ -18,6 +18,163 @@
 
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Sora简单介绍</title>
+      
+      
+      <link href="https://gpt-china.github.io/2024/02/sora/" rel="alternate" type="text/html" title="Sora简单介绍" />
+      
+      <published>2024-02-23T11:08:00+08:00</published>
+      <updated>2024-02-23T11:08:00+08:00</updated>
+      <id>https://gpt-china.github.io/2024/02/sora</id>
+      <content type="html" xml:base="https://gpt-china.github.io/2024/02/sora/">&lt;blockquote&gt;
+  &lt;p&gt;很抱歉最近因为在忙论文，没能及时更新相关的资讯。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;sora是什么&quot;&gt;Sora是什么？&lt;/h1&gt;
+
+&lt;p&gt;OpenAI于2024年2月15日&lt;strong&gt;向公众展示&lt;/strong&gt;了由Sora生成的多个高清视频，称该模型能够生成长达一分钟的视频。官方的网站在&lt;a href=&quot;https://openai.com/sora&quot;&gt;https://openai.com/sora&lt;/a&gt;，也可以看到生成的视频。我在2.15刚看到这个视频的时候，特别震惊，因为这样的有构图有运镜有特写有分镜的视频，完全由AI生成，并且很少瑕疵，真的令人难以接受。顺便吐槽一句，国内想追赶，真的很难了。&lt;/p&gt;
+
+&lt;p&gt;回归正题，Sora就是OpenAI（GPT也是他们家的）的又一个强有力的模型，针对于“通过文本生成视频”。输入一段文本描述（也就是“提示词”），Sora就可以生成一段1080p的、60s长度、多视角的视频。不要因为觉得1080p低、60s好短就认为Sora好弱，以前的模型可能只有4s视频能用。&lt;/p&gt;
+
+&lt;h1 id=&quot;如何使用sora&quot;&gt;如何使用Sora？&lt;/h1&gt;
+
+&lt;p&gt;一句话，&lt;strong&gt;你用不了&lt;/strong&gt;。为什么上一部分强调了“向公众展示”，就是因为只是展示，还有到“向公众开放”的程度。&lt;/p&gt;
+
+&lt;p&gt;目前想用Sora只有两种方式：&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;在Altman的Twitter下留言，写出你的提示词（也就是你想生成视频的文本描述），然后如果有幸你被Altman选中，他会帮你把这个丢到Sora里，把生成的视频发送给你。&lt;/li&gt;
+  &lt;li&gt;Sora目前会邀请一些视频创作者、电影制作人、设计师、视觉艺术家等等相关领域的专业人员和OpenAI内部员工来进行试用。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;根据官方消息，预计会在2-3月后向公众开放。换句话来说，&lt;strong&gt;不要想着在最近2-3个月自己亲手用到Sora&lt;/strong&gt;，更重要的是，&lt;strong&gt;不要相信任何说xxxx付费可以试用Sora&lt;/strong&gt;。&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+
+      
+
+      
+
+      
+        <summary type="html">什么是Sora？如何使用Sora？</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">ChatGPT账号注册教程，无需国外手机（2024年2月可用）</title>
+      
+      
+      <link href="https://gpt-china.github.io/2024/02/register-chatgpt/" rel="alternate" type="text/html" title="ChatGPT账号注册教程，无需国外手机（2024年2月可用）" />
+      
+      <published>2024-02-23T11:08:00+08:00</published>
+      <updated>2024-02-23T11:08:00+08:00</updated>
+      <id>https://gpt-china.github.io/2024/02/register-chatgpt</id>
+      <content type="html" xml:base="https://gpt-china.github.io/2024/02/register-chatgpt/">&lt;h1 id=&quot;前言&quot;&gt;前言&lt;/h1&gt;
+&lt;p&gt;前段时间同学找我说想用ChatGPT写点东西，我才意识到现在还有很多朋友不知道如何用ChatGPT，就简单记录一下，也方便大家查阅，我预期是之后介绍更多AI相关和ChatGPT相关的知识，帮助大家追上人工智能的潮流，提高自己的工作效率（用了ChatGPT之后效率直接起飞我只能说）！&lt;/p&gt;
+
+&lt;h1 id=&quot;chatgpt-是什么&quot;&gt;ChatGPT 是什么&lt;/h1&gt;
+&lt;p&gt;ChatGPT 是由 OpenAI 开发的一种大型语言模型，可以用于回答各种问题、生成文本、进行对话等自然语言处理任务。到目前为止，已经开发到GPT4的版本，由于添加了插件支持，不仅可以进行文本相关的工作，你甚至发给他图片、音频等等，或是让他上网搜索资料整理之后再回复你。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://s2.loli.net/2024/01/29/NMlTWB2PELoKyx8.png&quot; alt=&quot;用GPT4解释代码&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;chatgpt-官网&quot;&gt;ChatGPT 官网&lt;/h2&gt;
+&lt;p&gt;ChatGPT的官方网址是 &lt;a href=&quot;https://chat.openai.com&quot;&gt;https://chat.openai.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;请认准其官方域名 openai.com，不是这个域名的ChatGPT服务都是镜像站或者假冒伪劣网站，请注意辨别。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://s2.loli.net/2024/01/29/1kmtsiqE5JWGwUS.png&quot; alt=&quot;ChatGPT官网&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;chatgpt-使用流程&quot;&gt;ChatGPT 使用流程&lt;/h1&gt;
+
+&lt;p&gt;如果你不会魔法，或者觉得魔法麻烦，那就直接用国内一些镜像站就好了，很多，比较容易找到。如果你希望直接使用官方的ChatGPT服务甚至更多更高效的服务，可以接着往下看。&lt;/p&gt;
+
+&lt;p&gt;之前注册 ChatGPT 除了有一个海外邮箱，还需要手机号接码，一般都是推荐一些虚拟手机号接码平台，比如 &lt;a href=&quot;https://sms-activate.org/?ref=4671934&quot;&gt;sms-activate.org&lt;/a&gt;，但现在统统不用！&lt;/p&gt;
+
+&lt;p&gt;你只要会魔法，就可以注册，甚至直接使用GPT4！不会魔法的可以试试&lt;a href=&quot;https://feiniaoyun01.life/#/register?code=F2eppERt&quot;&gt;这个&lt;/a&gt;。&lt;/p&gt;
+
+&lt;h2 id=&quot;注册邮箱&quot;&gt;注册邮箱&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;2024.02.23最新更新&lt;/strong&gt;：proton邮箱可能由于注册过多，加上其邮箱的特殊属性，似乎被OpenAI拒绝注册了（也有朋友说是自己忘记验证邮箱导致的），可以考虑gmail邮箱来注册，作为老牌邮箱，gmail短时间内肯定是不会被拒绝的。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;尽管现在不需要手机号也可以注册，但是海外邮箱还是需要的，推荐proton邮箱（gmail也可以，不过会繁琐一些），不推荐微软系的邮箱（比如outlook、hotmail）。&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;访问&lt;a href=&quot;https://proton.me/&quot;&gt;proton官网&lt;/a&gt;，选择右上角的 「Create a free account」，选择免费套餐就行 「Get Proton for Free」
+&lt;img src=&quot;https://s2.loli.net/2024/01/29/GmFLfpJKeQI6ro8.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;https://s2.loli.net/2024/01/29/H5v46ocJdMsgzTA.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;设置用户名和密码（如果想换中文也可以按照图所示换语言）
+&lt;img src=&quot;https://s2.loli.net/2024/01/29/t6foZH9w43JiLCT.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;选择免费套餐就行（要想付费也行
+&lt;img src=&quot;https://s2.loli.net/2024/01/29/ixfQVeZMIy63JUr.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;通过真人验证
+&lt;img src=&quot;https://s2.loli.net/2024/01/29/LEVizRswPrutckK.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;输入想要显示的用户名
+&lt;img src=&quot;https://s2.loli.net/2024/01/29/ZmSyBsdOvXN5GPo.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;跳过手机验证（选择「Maybe later」），一定要记住用户名和密码，没有手机号，不好找回邮箱。
+&lt;img src=&quot;https://s2.loli.net/2024/01/29/XmCj7DvLrHIelqV.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;登陆邮箱即可（正常情况下就直接进入邮箱了&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;注册openai账号&quot;&gt;注册OpenAI账号&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;打开&lt;a href=&quot;https://chat.openai.com/&quot;&gt;OpenAI主页&lt;/a&gt;，点击「Sign up」
+&lt;img src=&quot;https://s2.loli.net/2024/01/29/1kmtsiqE5JWGwUS.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;输入邮箱，点击继续「Continue」，再输入密码，点击继续「Continue」，会提示要去邮箱验证
+&lt;img src=&quot;https://s2.loli.net/2024/01/29/hu8o5VpO21gjNeE.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;https://s2.loli.net/2024/01/29/XVqG7KvauzAb42g.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;https://s2.loli.net/2024/01/29/efjtX8T9S5P2pFk.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;去Pronton邮箱中进行验证（点击「Verify email address」）
+&lt;img src=&quot;https://s2.loli.net/2024/01/29/P2CJE3IzGo4yMiU.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;补充信息（姓名和出生日期，是否填真实的就看你自己了）
+&lt;img src=&quot;https://s2.loli.net/2024/01/29/k7tH321pNhzeFrg.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;（可选）你如果想要使用中文界面ChatGPT，可以点击加入alpha测试（不建议加入测试，我不知道会不会有什么负面影响）
+&lt;img src=&quot;https://s2.loli.net/2024/01/29/hyR8wBdCQ3pOIEf.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;最后&quot;&gt;最后&lt;/h1&gt;
+&lt;p&gt;从我2023年3月份左右开始使用ChatGPT，到最近三个月用GPT-4，对我平时工作学习效率提升非常高，不管是搜资料、日常问答，还是写作业、报告或者小论文，非常高效。我希望我这篇文章能帮助到真正需要的人，希望这篇文章能帮助没有接触过AI的人尝试AI带给我们的便利。&lt;/p&gt;
+
+&lt;!-- 如果有问题，可以发[我邮箱](mailto:Jittery3615@pronton.me)，我看到都会回复的。 --&gt;
+&lt;p&gt;如果有什么问题，或者购买成品号、代充，可以加我微信MirageTurtle，备注GPT就行。&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+
+      
+
+      
+
+      
+        <summary type="html">proton邮箱可能不能用了，gmail没什么问题。有问题可以加文末联系方式。</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -70,104 +227,6 @@
 
       
         <summary type="html">使用虚拟信用卡升级GPT-4（2024年2月可用）。</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">ChatGPT账号注册教程，无需国外手机（2024年2月可用）</title>
-      
-      
-      <link href="https://gpt-china.github.io/2024/01/register-chatgpt/" rel="alternate" type="text/html" title="ChatGPT账号注册教程，无需国外手机（2024年2月可用）" />
-      
-      <published>2024-01-29T22:39:00+08:00</published>
-      <updated>2024-01-29T22:39:00+08:00</updated>
-      <id>https://gpt-china.github.io/2024/01/register-chatgpt</id>
-      <content type="html" xml:base="https://gpt-china.github.io/2024/01/register-chatgpt/">&lt;h1 id=&quot;前言&quot;&gt;前言&lt;/h1&gt;
-&lt;p&gt;前段时间同学找我说想用ChatGPT写点东西，我才意识到现在还有很多朋友不知道如何用ChatGPT，就简单记录一下，也方便大家查阅，我预期是之后介绍更多AI相关和ChatGPT相关的知识，帮助大家追上人工智能的潮流，提高自己的工作效率（用了ChatGPT之后效率直接起飞我只能说）！&lt;/p&gt;
-
-&lt;h1 id=&quot;chatgpt-是什么&quot;&gt;ChatGPT 是什么&lt;/h1&gt;
-&lt;p&gt;ChatGPT 是由 OpenAI 开发的一种大型语言模型，可以用于回答各种问题、生成文本、进行对话等自然语言处理任务。到目前为止，已经开发到GPT4的版本，由于添加了插件支持，不仅可以进行文本相关的工作，你甚至发给他图片、音频等等，或是让他上网搜索资料整理之后再回复你。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://s2.loli.net/2024/01/29/NMlTWB2PELoKyx8.png&quot; alt=&quot;用GPT4解释代码&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;chatgpt-官网&quot;&gt;ChatGPT 官网&lt;/h2&gt;
-&lt;p&gt;ChatGPT的官方网址是 &lt;a href=&quot;https://chat.openai.com&quot;&gt;https://chat.openai.com&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;请认准其官方域名 openai.com，不是这个域名的ChatGPT服务都是镜像站或者假冒伪劣网站，请注意辨别。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://s2.loli.net/2024/01/29/1kmtsiqE5JWGwUS.png&quot; alt=&quot;ChatGPT官网&quot; /&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;chatgpt-使用流程&quot;&gt;ChatGPT 使用流程&lt;/h1&gt;
-
-&lt;p&gt;如果你不会魔法，或者觉得魔法麻烦，那就直接用国内一些镜像站就好了，很多，比较容易找到。如果你希望直接使用官方的ChatGPT服务甚至更多更高效的服务，可以接着往下看。&lt;/p&gt;
-
-&lt;p&gt;之前注册 ChatGPT 除了有一个海外邮箱，还需要手机号接码，一般都是推荐一些虚拟手机号接码平台，比如 &lt;a href=&quot;https://sms-activate.org/?ref=4671934&quot;&gt;sms-activate.org&lt;/a&gt;，但现在统统不用！&lt;/p&gt;
-
-&lt;p&gt;你只要会魔法，就可以注册，甚至直接使用GPT4！不会魔法的可以试试&lt;a href=&quot;https://feiniaoyun01.life/#/register?code=F2eppERt&quot;&gt;这个&lt;/a&gt;。&lt;/p&gt;
-
-&lt;h2 id=&quot;注册邮箱&quot;&gt;注册邮箱&lt;/h2&gt;
-
-&lt;p&gt;尽管现在不需要手机号也可以注册，但是海外邮箱还是需要的，推荐proton邮箱（gmail也可以，不过会繁琐一些），不推荐微软系的邮箱（比如outlook、hotmail）。&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;访问&lt;a href=&quot;https://proton.me/&quot;&gt;proton官网&lt;/a&gt;，选择右上角的 「Create a free account」，选择免费套餐就行 「Get Proton for Free」
-&lt;img src=&quot;https://s2.loli.net/2024/01/29/GmFLfpJKeQI6ro8.png&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;https://s2.loli.net/2024/01/29/H5v46ocJdMsgzTA.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;设置用户名和密码（如果想换中文也可以按照图所示换语言）
-&lt;img src=&quot;https://s2.loli.net/2024/01/29/t6foZH9w43JiLCT.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;选择免费套餐就行（要想付费也行
-&lt;img src=&quot;https://s2.loli.net/2024/01/29/ixfQVeZMIy63JUr.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;通过真人验证
-&lt;img src=&quot;https://s2.loli.net/2024/01/29/LEVizRswPrutckK.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;输入想要显示的用户名
-&lt;img src=&quot;https://s2.loli.net/2024/01/29/ZmSyBsdOvXN5GPo.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;跳过手机验证（选择「Maybe later」），一定要记住用户名和密码，没有手机号，不好找回邮箱。
-&lt;img src=&quot;https://s2.loli.net/2024/01/29/XmCj7DvLrHIelqV.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;登陆邮箱即可（正常情况下就直接进入邮箱了&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;注册openai账号&quot;&gt;注册OpenAI账号&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;打开&lt;a href=&quot;https://chat.openai.com/&quot;&gt;OpenAI主页&lt;/a&gt;，点击「Sign up」
-&lt;img src=&quot;https://s2.loli.net/2024/01/29/1kmtsiqE5JWGwUS.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;输入邮箱，点击继续「Continue」，再输入密码，点击继续「Continue」，会提示要去邮箱验证
-&lt;img src=&quot;https://s2.loli.net/2024/01/29/hu8o5VpO21gjNeE.png&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;https://s2.loli.net/2024/01/29/XVqG7KvauzAb42g.png&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;https://s2.loli.net/2024/01/29/efjtX8T9S5P2pFk.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;去Pronton邮箱中进行验证（点击「Verify email address」）
-&lt;img src=&quot;https://s2.loli.net/2024/01/29/P2CJE3IzGo4yMiU.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;补充信息（姓名和出生日期，是否填真实的就看你自己了）
-&lt;img src=&quot;https://s2.loli.net/2024/01/29/k7tH321pNhzeFrg.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;（可选）你如果想要使用中文界面ChatGPT，可以点击加入alpha测试（不建议加入测试，我不知道会不会有什么负面影响）
-&lt;img src=&quot;https://s2.loli.net/2024/01/29/hyR8wBdCQ3pOIEf.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h1 id=&quot;最后&quot;&gt;最后&lt;/h1&gt;
-&lt;p&gt;从我2023年3月份左右开始使用ChatGPT，到最近三个月用GPT-4，对我平时工作学习效率提升非常高，不管是搜资料、日常问答，还是写作业、报告或者小论文，非常高效。我希望我这篇文章能帮助到真正需要的人，希望这篇文章能帮助没有接触过AI的人尝试AI带给我们的便利。&lt;/p&gt;
-
-&lt;p&gt;如果有问题，可以发&lt;a href=&quot;mailto:Jittery3615@pronton.me&quot;&gt;我邮箱&lt;/a&gt;，我看到都会回复的。&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-
-      
-
-      
-
-      
-        <summary type="html">ChatGPT账号注册教程，无需国外手机（2024年2月可用）</summary>
       
 
       
