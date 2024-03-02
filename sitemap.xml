@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://gpt-china.github.io/2024/01/upgrade-gpt4/</loc>
-<lastmod>2024-01-29T23:24:00+08:00</lastmod>
-</url>
-<url>
 <loc>https://gpt-china.github.io/2024/02/register-chatgpt/</loc>
 <lastmod>2024-02-23T11:08:00+08:00</lastmod>
 </url>
@@ -15,6 +11,14 @@
 <url>
 <loc>https://gpt-china.github.io/2024/02/onlyfans/</loc>
 <lastmod>2024-02-23T18:08:00+08:00</lastmod>
+</url>
+<url>
+<loc>https://gpt-china.github.io/2024/03/upgrade-gpt4/</loc>
+<lastmod>2024-03-01T23:24:00+08:00</lastmod>
+</url>
+<url>
+<loc>https://gpt-china.github.io/2024/03/navigator/</loc>
+<lastmod>2024-03-02T00:00:00+08:00</lastmod>
 </url>
 <url>
 <loc>https://gpt-china.github.io/archives/</loc>
