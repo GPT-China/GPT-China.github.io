@@ -5,7 +5,7 @@
   
   <link href="https://wwwgptchina.com/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://wwwgptchina.com/" rel="alternate" type="text/html" />
-  <updated>2024-03-05T23:10:41+08:00</updated>
+  <updated>2024-03-08T19:49:04+08:00</updated>
   <id>https://wwwgptchina.com//</id>
 
   
@@ -27,8 +27,8 @@
       
       <link href="https://wwwgptchina.com/navigator/" rel="alternate" type="text/html" title="网站导航" />
       
-      <published>2024-03-05T09:01:00+08:00</published>
-      <updated>2024-03-05T09:01:00+08:00</updated>
+      <published>2024-03-08T19:01:00+08:00</published>
+      <updated>2024-03-08T19:01:00+08:00</updated>
       <id>https://wwwgptchina.com/navigator</id>
       <content type="html" xml:base="https://wwwgptchina.com/navigator/">&lt;blockquote&gt;
   &lt;p&gt;不愿意看文章看资讯就够了&lt;/p&gt;
@@ -38,6 +38,7 @@
 
 &lt;h4 id=&quot;ai&quot;&gt;AI&lt;/h4&gt;
 &lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;ChatGPT无法发送消息的解决方案已经更新&lt;/strong&gt;！&lt;/li&gt;
   &lt;li&gt;Claude3模型3月5号凌晨发布，推理能力远超GPT-4，或许会推动GPT-5的发布。&lt;/li&gt;
   &lt;li&gt;现在注册OpenAI官方账号不需要境外手机号了，所以你只需要有一个境外邮箱（例如Gmail或者Outlook）就可以注册。&lt;/li&gt;
   &lt;li&gt;Sora很强，通过文本生成长视频（视频长度的提升是一个关键），但目前还未向公众开放，只有一些受邀请的业内人士可以使用。&lt;/li&gt;
@@ -65,6 +66,7 @@
 &lt;ol&gt;
   &lt;li&gt;&lt;a href=&quot;https://wwwgptchina.com/register-chatgpt/&quot;&gt;如何注册官方ChatGPT账号&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://wwwgptchina.com/upgrade-gpt4/&quot;&gt;如何使用虚拟卡（支付宝）升级官方GPT Plus&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://wwwgptchina.com/chatgpt-fix/&quot;&gt;ChatGPT无法发送消息解决方案&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://wwwgptchina.com/sora/&quot;&gt;Sora&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://wwwgptchina.com/claude3/&quot;&gt;Claude3&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;</content>
@@ -83,6 +85,121 @@
 
       
         <summary type="html">这一个就够了！</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">ChatGPT无法发送消息？最新解决方案</title>
+      
+      
+      <link href="https://wwwgptchina.com/chatgpt-fix/" rel="alternate" type="text/html" title="ChatGPT无法发送消息？最新解决方案" />
+      
+      <published>2024-03-08T19:00:00+08:00</published>
+      <updated>2024-03-08T19:00:00+08:00</updated>
+      <id>https://wwwgptchina.com/chatgpt-fix</id>
+      <content type="html" xml:base="https://wwwgptchina.com/chatgpt-fix/">&lt;h1 id=&quot;现象&quot;&gt;现象&lt;/h1&gt;
+
+&lt;p&gt;本文可解决ChatGPT无法发送消息的问题。具体表现为&lt;strong&gt;无法发送消息但可以查看历史对话&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;h1 id=&quot;问题原因&quot;&gt;问题原因&lt;/h1&gt;
+
+&lt;p&gt;跟身边朋友聊了一下，发现加入多语言alpha测试的都出现问题了（就是之前打开网页顶部弹窗邀请的测试），目前只能确定参加alpha语言测试并且选择了中文（因为身边要么就是没参加测试，要么就选了中文😂）的，就不能正常用了（具体可以自己抓包细看&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;ab.chatgpt.com&lt;/code&gt;接口）。&lt;/p&gt;
+
+&lt;h1 id=&quot;解决方案&quot;&gt;解决方案&lt;/h1&gt;
+
+&lt;p&gt;清空&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;chat.openai.com&lt;/code&gt;的浏览器本地缓存即可。&lt;/p&gt;
+
+&lt;p&gt;（临时方案：用浏览器的隐私模式打开ChatGPT就行）&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;在ChatGPT页面，鼠标右键，选择检查（inspect）
+&lt;img src=&quot;https://s2.loli.net/2024/03/08/hICOW3MG12tu4Xn.png&quot; alt=&quot;fix1.png&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;在打开的开发者工具界面，应用-存储-勾选「包括第三方cookies」-「清除网站数据」
+&lt;img src=&quot;https://s2.loli.net/2024/03/08/hICOW3MG12tu4Xn.png&quot; alt=&quot;fix1.png&quot; /&gt;&lt;/li&gt;
+&lt;/ol&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+
+      
+
+      
+
+      
+        <summary type="html">ChatGPT无法发送消息的最新解决方案。</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">使用虚拟信用卡升级GPT-4（2024年3月可用）</title>
+      
+      
+      <link href="https://wwwgptchina.com/upgrade-gpt4/" rel="alternate" type="text/html" title="使用虚拟信用卡升级GPT-4（2024年3月可用）" />
+      
+      <published>2024-03-07T23:24:00+08:00</published>
+      <updated>2024-03-07T23:24:00+08:00</updated>
+      <id>https://wwwgptchina.com/upgrade-gpt4</id>
+      <content type="html" xml:base="https://wwwgptchina.com/upgrade-gpt4/">&lt;h1 id=&quot;gpt-4闲聊&quot;&gt;GPT-4闲聊&lt;/h1&gt;
+&lt;p&gt;（了解的读者可以直接跳过了&lt;/p&gt;
+
+&lt;p&gt;GPT4是订阅制，20美元/月，新手朋友的话，可以先收藏文章/博客，先用一段时间ChatGPT也就是GPT3.5，如果觉得有想法可以再订阅一个月试试。我的感受是GPT4会比GPT3.5准确很多（甚至之前CPT3.5会不知道周树人和鲁迅的关系），也更高效一点，用了GPT4之后就没用过GPT3.5了（笑&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;GPT4提供比GPT3.5更快的速度、更强的性能，并且可以使用插件。&lt;/strong&gt;然而，要向OpenAI支付来订阅GPT4，需要一张海外银行卡。许多用户表示在GPT4的付费订阅支付时遇到障碍，大多数情况下是由于OpenAI的相关政策或由于所使用的支付渠道不符合规定所导致。一种有效的解决方法是&lt;strong&gt;申请一张新的虚拟信用卡&lt;/strong&gt;，从而绕开风控系统。在某些情况下，可能需要重新注册ChatGPT账号（如果虚拟卡支付仍存在问题，可以考虑重新注册GPT账号）。&lt;/p&gt;
+
+&lt;h1 id=&quot;注册虚拟卡&quot;&gt;注册虚拟卡&lt;/h1&gt;
+
+&lt;p&gt;这里推荐一个用户友好、操作简便的平台，全流程仅需约2分钟：&lt;a href=&quot;https://bewildcard.com/i/AI8&quot;&gt;WildCard&lt;/a&gt;（使用这个链接可以省两美元开卡费）&lt;/p&gt;
+
+&lt;p&gt;推荐的原因主要是因为这是一家&lt;strong&gt;国内公司&lt;/strong&gt;，通过支付宝实名认证，为的就是方便国人使用虚拟卡来进行海外业务。我开通的是有效期2年的虚拟信用卡，开卡费包含两年年费，不到100块，每天成本不到2毛钱。其他费用无，充值方面根据个人需求充就行。&lt;strong&gt;关键是，如果没有消费成功，可以随时提现余额到支付宝。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;2024.03.01更新&lt;/strong&gt;：了解到有一些朋友不希望在这件事情上实名认证，担心泄漏信息等。&lt;strong&gt;实名认证是为了避免洗钱等的发生&lt;/strong&gt;，毕竟这个平台也是为了解决国内用户在海外平台的消费渠道问题，挣个平台费用（也就是开卡费用，或者理解成卡片租赁费），一些相关金融上的风险还是需要规避的。如果实在有顾虑，目前有一种备用方案，就是使用押金，具体在开卡时可以操作。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;升级gpt-4&quot;&gt;升级GPT-4&lt;/h1&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;登陆ChatGPT&lt;/li&gt;
+  &lt;li&gt;在同一浏览器新开一个标签页，访问链接https://chat.openai.com/invite/accepted&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;其他&quot;&gt;其他&lt;/h1&gt;
+
+&lt;p&gt;注册ChatGPT账号可以参考&lt;a href=&quot;https://gpt-china.github.io/2024/01/register-chatgpt/&quot;&gt;ChatGPT账号注册教程，无需国外手机&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;成品号、代充或者相关问题可以加微信MirageTurtle备注GPT咨询&lt;/em&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+
+      
+
+      
+
+      
+        <summary type="html">质量与使用体验都极佳的虚拟信用卡。</summary>
       
 
       
@@ -141,68 +258,6 @@
 
       
         <summary type="html">GPT4的时代要过去了……</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">使用虚拟信用卡升级GPT-4（2024年2月可用）</title>
-      
-      
-      <link href="https://wwwgptchina.com/upgrade-gpt4/" rel="alternate" type="text/html" title="使用虚拟信用卡升级GPT-4（2024年2月可用）" />
-      
-      <published>2024-03-01T23:24:00+08:00</published>
-      <updated>2024-03-01T23:24:00+08:00</updated>
-      <id>https://wwwgptchina.com/upgrade-gpt4</id>
-      <content type="html" xml:base="https://wwwgptchina.com/upgrade-gpt4/">&lt;h1 id=&quot;gpt-4闲聊&quot;&gt;GPT-4闲聊&lt;/h1&gt;
-&lt;p&gt;（了解的读者可以直接跳过了&lt;/p&gt;
-
-&lt;p&gt;GPT4是订阅制，20美元/月，新手朋友的话，可以先收藏文章/博客，先用一段时间ChatGPT也就是GPT3.5，如果觉得有想法可以再订阅一个月试试。我的感受是GPT4会比GPT3.5准确很多（甚至之前CPT3.5会不知道周树人和鲁迅的关系），也更高效一点，用了GPT4之后就没用过GPT3.5了（笑&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;GPT4提供比GPT3.5更快的速度、更强的性能，并且可以使用插件。&lt;/strong&gt;然而，要向OpenAI支付来订阅GPT4，需要一张海外银行卡。许多用户表示在GPT4的付费订阅支付时遇到障碍，大多数情况下是由于OpenAI的相关政策或由于所使用的支付渠道不符合规定所导致。一种有效的解决方法是&lt;strong&gt;申请一张新的虚拟信用卡&lt;/strong&gt;，从而绕开风控系统。在某些情况下，可能需要重新注册ChatGPT账号（如果虚拟卡支付仍存在问题，可以考虑重新注册GPT账号）。&lt;/p&gt;
-
-&lt;h1 id=&quot;注册虚拟卡&quot;&gt;注册虚拟卡&lt;/h1&gt;
-
-&lt;p&gt;这里推荐一个用户友好、操作简便的平台，全流程仅需约2分钟：&lt;a href=&quot;https://bewildcard.com/i/AI8&quot;&gt;WildCard&lt;/a&gt;（使用这个链接可以省两美元开卡费）&lt;/p&gt;
-
-&lt;p&gt;推荐的原因主要是因为这是一家&lt;strong&gt;国内公司&lt;/strong&gt;，通过支付宝实名认证，为的就是方便国人使用虚拟卡来进行海外业务。我开通的是有效期2年的虚拟信用卡，开卡费包含两年年费，不到100块，每天成本不到2毛钱。其他费用无，充值方面根据个人需求充就行。&lt;strong&gt;关键是，如果没有消费成功，可以随时提现余额到支付宝。&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;strong&gt;2024.03.01更新&lt;/strong&gt;：了解到有一些朋友不希望在这件事情上实名认证，担心泄漏信息等。&lt;strong&gt;实名认证是为了避免洗钱等的发生&lt;/strong&gt;，毕竟这个平台也是为了解决国内用户在海外平台的消费渠道问题，挣个平台费用（也就是开卡费用，或者理解成卡片租赁费），一些相关金融上的风险还是需要规避的。如果实在有顾虑，目前有一种备用方案，就是使用押金，具体在开卡时可以操作。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h1 id=&quot;升级gpt-4&quot;&gt;升级GPT-4&lt;/h1&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;登陆ChatGPT&lt;/li&gt;
-  &lt;li&gt;在同一浏览器新开一个标签页，访问链接https://chat.openai.com/invite/accepted&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h1 id=&quot;其他&quot;&gt;其他&lt;/h1&gt;
-
-&lt;p&gt;注册ChatGPT账号可以参考&lt;a href=&quot;https://gpt-china.github.io/2024/01/register-chatgpt/&quot;&gt;ChatGPT账号注册教程，无需国外手机&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;成品号、代充或者相关问题可以加微信MirageTurtle备注GPT咨询&lt;/em&gt;&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-
-      
-
-      
-
-      
-        <summary type="html">使用虚拟信用卡升级GPT-4（2024年2月可用）。</summary>
       
 
       
